@@ -5,7 +5,7 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_snc_fool_table</description>
+        <description>Default access control on x_snc_fool_table - GIT Test</description>
         <name>x_snc_fool_table</name>
         <operation display_value="write">write</operation>
         <script/>
